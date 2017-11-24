@@ -1,3 +1,3 @@
 setInterval(function() {
-    refresh();
+    window.location.reload();
 }, 3000);
